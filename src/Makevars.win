@@ -1,0 +1,19 @@
+SCRYPT_FLAGS = -I./scrypt-1.1.6/ -I./scrypt-1.1.6/lib -I./scrypt-1.1.6/lib/util
+
+PKG_CFLAGS = $(SCRYPT_FLAGS) 
+PKG_CXXFLAGS = $(shell "${R_HOME}/bin${R_ARCH_BIN}/Rscript.exe" -e "Rcpp:::CxxFlags()") $(SCRYPT_FLAGS)
+PKG_LIBS = $(shell "${R_HOME}/bin${R_ARCH_BIN}/Rscript.exe" -e "Rcpp:::LdFlags()") $(SCRYPT_FLAGS)
+
+SOURCES = scrypt-1.1.6/lib/crypto/sha256.c \
+	scrypt-1.1.6/lib/crypto/crypto_scrypt-ref.c \
+	RcppExports.cpp \
+	scrypt.cpp \
+	base64.cpp \
+	util.cpp
+
+OBJECTS = scrypt-1.1.6/lib/crypto/sha256.o \
+	scrypt-1.1.6/lib/crypto/crypto_scrypt-ref.o \
+	RcppExports.o \
+	scrypt.o \
+	base64.o \
+	util.o
