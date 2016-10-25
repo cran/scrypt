@@ -1,4 +1,4 @@
-0361318d04543a7bcbafcc578cd309e1 *DESCRIPTION
+a39020dfad764e806127c7063ca133e5 *DESCRIPTION
 b91b34bd7dc5db83935176f3e66889d0 *LICENSE
 3e38f8fa392ae639ad4a9b5ab73a5230 *NAMESPACE
 095b1e27b2cca64147c5f16ab8ef5383 *R/RcppExports.R
@@ -9,7 +9,7 @@ b67fe35a7c952a160ace8fbdf9164ccf *man/hashPassword.Rd
 b547de215647dd881ee98df0e828bbc6 *man/scrypt-package.Rd
 c4b28ad43681437d9b6ebd7700ed7c43 *man/verifyPassword.Rd
 771e9eec0d257255fe27f16faf86f21c *src/Makevars
-ba0d2e4b39b42decf68d36646e8d0692 *src/Makevars.win
+f6f816fc078fe7495692d73dc24a236e *src/Makevars.win
 d647c2fb69bc25ea84b7e1442933a556 *src/RcppExports.cpp
 8650c72b9378432b8adf954983408a93 *src/base64.cpp
 9b098001a30a4076ccb1949dd1c149de *src/base64.hpp
@@ -40,5 +40,5 @@ f0ddeb2c939d6c394099f1e6c2833db2 *src/scrypt-1.1.6/lib/util/warn.c
 4e52270436f4ac05e21449362442db7a *src/scrypt-1.1.6/lib/util/warn.h
 e5d59beb326547674a5cc2c95ee356a5 *src/scrypt-1.1.6/scrypt_platform.h
 03db935c5e829b44ae6c457bfd224097 *src/scrypt.cpp
-3e834007996035836b7b0f91df2a2726 *src/util.cpp
+4e514d07ccce7ddab7998ced815be746 *src/util.cpp
 5165a6eb60b3614931b02a3afca09605 *src/util.hpp
