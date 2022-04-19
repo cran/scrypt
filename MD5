@@ -1,7 +1,7 @@
-b8ad8805153c0ddf61da67cd90eb6c88 *DESCRIPTION
+63ae65d4a2ad2e39bc911beef8707684 *DESCRIPTION
 b91b34bd7dc5db83935176f3e66889d0 *LICENSE.note
 2db6645a7c3e43a08f493d5e22bedc53 *NAMESPACE
-b999d44af28dd5b9d90790335fe91abe *NEWS
+b147407c8bbcd0a5e9bde3b4d9a2b93a *NEWS
 394af4cb4f8c3a9f27f8be8086d00374 *R/RcppExports.R
 8c230522f9fbf2d32c0b036c8413a733 *README.md
 cd0d42f0875a754130f9963bf3655e6f *cleanup
@@ -9,8 +9,8 @@ cd0d42f0875a754130f9963bf3655e6f *cleanup
 b67fe35a7c952a160ace8fbdf9164ccf *man/hashPassword.Rd
 b547de215647dd881ee98df0e828bbc6 *man/scrypt-package.Rd
 c4b28ad43681437d9b6ebd7700ed7c43 *man/verifyPassword.Rd
-771e9eec0d257255fe27f16faf86f21c *src/Makevars
-f6f816fc078fe7495692d73dc24a236e *src/Makevars.win
+b2ad101a722acc73fe44f9444ec7f72f *src/Makevars
+9d32850dff1844b192bd70f5e9f21d0a *src/Makevars.win
 0fc218fb42be8177f23e9a76aa271226 *src/RcppExports.cpp
 8650c72b9378432b8adf954983408a93 *src/base64.cpp
 9b098001a30a4076ccb1949dd1c149de *src/base64.hpp
@@ -46,5 +46,5 @@ f0ddeb2c939d6c394099f1e6c2833db2 *src/scrypt-1.1.6/lib/util/warn.c
 4e52270436f4ac05e21449362442db7a *src/scrypt-1.1.6/lib/util/warn.h
 e5d59beb326547674a5cc2c95ee356a5 *src/scrypt-1.1.6/scrypt_platform.h
 eb58f4f83af98e5c5048b0f3a044f35f *src/scrypt.cpp
-4e514d07ccce7ddab7998ced815be746 *src/util.cpp
+ebf895e9478988279402e8dd9ccd22ca *src/util.cpp
 5165a6eb60b3614931b02a3afca09605 *src/util.hpp
