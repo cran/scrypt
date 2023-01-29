@@ -1,11 +1,11 @@
-b69b62aae67dda4e5236b29a00c50086 *DESCRIPTION
+f4e1e2f79666b44e767e31cda1360b32 *DESCRIPTION
 b91b34bd7dc5db83935176f3e66889d0 *LICENSE.note
 2db6645a7c3e43a08f493d5e22bedc53 *NAMESPACE
 6dac676d62cd5f3084407cfb0aaad1a6 *NEWS
 394af4cb4f8c3a9f27f8be8086d00374 *R/RcppExports.R
 e69362d961eb28df1f79b5b3a0e79f3e *README.md
 cd0d42f0875a754130f9963bf3655e6f *cleanup
-1d2e789ba2684a60135eb95eb28485cd *configure
+f11d1c7e451af2e7ffd5990ef79b987a *configure
 b67fe35a7c952a160ace8fbdf9164ccf *man/hashPassword.Rd
 b547de215647dd881ee98df0e828bbc6 *man/scrypt-package.Rd
 c4b28ad43681437d9b6ebd7700ed7c43 *man/verifyPassword.Rd
@@ -23,8 +23,8 @@ eb494860d8a7361f01d662c3d85de94c *src/scrypt-1.1.6/acscrypt.m4
 b965f98f97ba53fa9e2ed5528caa4efc *src/scrypt-1.1.6/config.aux/install-sh
 5f2a276ee7b8decec541391229d03591 *src/scrypt-1.1.6/config.aux/missing
 248700e4f86fca03d0c0a586076f0540 *src/scrypt-1.1.6/config.h.in
-4edabcdb4d466f286e518e72b5e33ce5 *src/scrypt-1.1.6/configure
-80e75d5ecbe46ed5cc11be6862adf5d8 *src/scrypt-1.1.6/configure.ac
+128e375279b50cd549bbcd392d77c14c *src/scrypt-1.1.6/configure
+6af4b38e26dfa9dbd9b925235ae9f73e *src/scrypt-1.1.6/configure.ac
 541106d1cd2b962d70a0dbf5511966c2 *src/scrypt-1.1.6/lib/crypto/crypto_aesctr.c
 ea7f300971429c4233ce57810b7d2cf0 *src/scrypt-1.1.6/lib/crypto/crypto_aesctr.h
 6b63d994f7ac8cca2f949a6683e06a83 *src/scrypt-1.1.6/lib/crypto/crypto_scrypt-nosse.c

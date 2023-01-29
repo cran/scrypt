@@ -3,7 +3,7 @@ AC_CONFIG_AUX_DIR([config.aux])
 AC_CONFIG_MACRO_DIR([.])
 AM_INIT_AUTOMAKE()
 AM_MAINTAINER_MODE
-AC_PROG_CC([cc cl gcc])
+AC_PROG_CC
 AC_CHECK_HEADERS([err.h sys/endian.h sys/sysinfo.h])
 AC_CHECK_LIB(rt, clock_gettime)
 AC_CHECK_FUNCS([clock_gettime])
